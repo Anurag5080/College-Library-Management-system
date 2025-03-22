@@ -13,9 +13,8 @@ A fully functional **College Management System** built entirely with **Python**,
 
 ## 🛠 Technologies Used  
 - **Python** (Full-stack development)  
-- **[Your GUI Library]** for frontend  
 - **SQLite/MySQL** for database management  
-- **Tkinter/PyQt/Django/Flask** (mention whichever applies)  
+- **Tkinter** 
 
 ## 🎯 What I Learned  
 - Unlocked Python’s full-stack capabilities  
@@ -29,5 +28,5 @@ A fully functional **College Management System** built entirely with **Python**,
 
 ---
 
-💡 **Developed with passion by [Your Name]**  
+💡 **Developed with passion by Anurag Singh**  
 Feel free to fork, contribute, or suggest new features! 🚀🎓  
